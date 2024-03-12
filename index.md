@@ -15,7 +15,7 @@ Følgende ressourcer vil blive benyttet under kurset. Du behøver ikke have læs
     - I "Grundlæggende C# vil vi primært fokusere på [For begyndere](https://mcronberg.github.io/bogenomcsharp/level0/index.html) og [Grundlæggende C#](https://mcronberg.github.io/bogenomcsharp/level1/index.html)
     - I "Objektorienteret C#" vil vi primært fokusere på det objektorienterede under [Videregående C#](https://mcronberg.github.io/bogenomcsharp/level2/index.html)
     - I "Funktionsorientering og Asynkron C#" vil vi primært fokusere på disse emner samt LINQ under [Videregående C#](https://mcronberg.github.io/bogenomcsharp/level2/index.html)
-- [Chat](https://chat.cronberg.dk/ip202403) (bruges muligvis under kurset)
+- [Chat](https://chat.cronberg.dk/cs202403) (bruges muligvis under kurset)
 
 ## Log
 
